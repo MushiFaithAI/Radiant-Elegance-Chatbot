@@ -29,3 +29,4 @@ python main.py
 
 5. Type questions or greetings to interact.
 6. Type "bye" or "exit" to close the chatbot.
+
